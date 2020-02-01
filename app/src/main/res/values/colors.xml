@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e87d0</color>
+    <color name="colorPrimaryDark">#26619c</color>
+    <color name="colorAccent">#3e87d0</color>
+
+    <color name="black">#000000</color>
+    <color name="lapis">#26619c</color>
+    <color name="cyan">#00ffff</color>
+    <color name="snow">#fffafa</color>
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
+
+</resources>
